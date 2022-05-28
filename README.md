@@ -1,2 +1,2 @@
 # Sololearn_Shapes
-An java exercise on sololearn
+A java exercise on sololearn
